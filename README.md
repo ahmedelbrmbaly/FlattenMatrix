@@ -158,6 +158,7 @@ The 1D vector is of size q and is indexed by y.
 * [Bidirectional translation between 1D and 3D arrays](https://coderwall.com/p/fzni3g/bidirectional-translation-between-1d-and-3d-arrays)
 
 * [Create Executable from Python Script using Pyinstaller](https://datatofish.com/executable-pyinstaller/)
+* [Constant Complexity - O(1)](https://www.educative.io/courses/mastering-data-structures-and-sorting-algorithms-in-javascript/YMMOjJAvAlA)
 
 <br><br>
 
