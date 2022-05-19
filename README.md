@@ -94,10 +94,11 @@ The 1D vector is of size q and is indexed by y.
 
 ![00](https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/snapshots/04.png)
 
-## ToDo
-
 <br><br>
 
+## ToDo
+
+* [ ] implemt missing functions
 * [ ] Inhance user experince
 * [ ] Testing
 
@@ -109,13 +110,31 @@ The 1D vector is of size q and is indexed by y.
 
 <br><br>
 
+## Mathmitcal Proof
+
+### Arrays graph
+
+![arrays shapes](https://miro.medium.com/max/1200/1*X0Dg7QfSYtWhSAu-afi8-g.png)
+
+### 2d to 1d
+
+![1d to 2 d](https://miro.medium.com/max/1400/1*JPp9-XDNu-uadT1amErfow.png)
+
+* lets take an 3 *4 array (n*m)
+  * 3ditem[0][0] = 1ditem[0]
+  * 3ditem[0][1] = 1ditem[3]
+  * 3ditem[i][j] = 1ditem[i + j * n]
+
+* if we extended that to 3d array
+  * item3d[i][j][k] = item1d[k + j * p + i * p * m]
+
+![1d to 2 d](https://www.researchgate.net/profile/Jose-Cano-6/publication/327070011/figure/fig2/AS:660549306175489@1534498635429/3D-input-to-1D-array-row-by-row-transformation.png)
+
 ## Resources
 
-* [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://youtu.be/YXPyB4XeYLA)
+* [Bidirectional translation between 1D and 3D arrays](https://coderwall.com/p/fzni3g/bidirectional-translation-between-1d-and-3d-arrays)
 
-* [Pyplot in Matplotlib - GeeksforGeeks](https://www.geeksforgeeks.org/plot-mathematical-expressions-in-python-using-matplotlib/)
-
-* [Pyplot in Matplotlib - GeeksforGeeks](https://www.geeksforgeeks.org/matplotlib-tutorial/#:~:text=the%20next%20section.-,Pyplot,plotting%20area%20in%20a%20figure.)
+* [Create Executable from Python Script using Pyinstaller](https://datatofish.com/executable-pyinstaller/)
 
 <br><br>
 
