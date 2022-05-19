@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.stack.imgur.com/70IaS.gif" width="200"/>
-</div>
 
 <br>
 <div id="badges" align="center">
