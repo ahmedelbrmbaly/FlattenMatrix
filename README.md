@@ -68,7 +68,7 @@ The 1D vector is of size q and is indexed by y.
 
 ### 5. Build
 
-* [x] Build the programm
+* [x] Build the program
 
 ## Progam OverView
 
@@ -110,7 +110,7 @@ The 1D vector is of size q and is indexed by y.
 
 <br><br>
 
-## Mathmitcal Proof
+## Mathematical Proof
 
 ### Arrays graph
 
