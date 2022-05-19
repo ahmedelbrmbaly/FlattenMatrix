@@ -93,3 +93,63 @@ def Three2One(i, j, k, n, m, p):
     index = k + j * p + i * p * m
 
     return index
+
+
+def One2Three(index, n, m, p):
+    '''
+    Function converts from 1d arr[index] to  3d[i][j][k]
+
+    Parametrs:
+
+        index(int): equivelent 1d index
+        n (int): diminsion
+        m (int): diminsion
+        p (int): diminsion
+
+    Returs:
+        i(int): index n
+        j(int): index m
+        k(int): index p
+
+
+    '''
+
+    pass
+
+
+def edit1d(arr1d, i, j, k):
+    '''
+    Function edit equivelent item in index using 3d index i,j,k 
+
+    Parametrs:
+
+        arr1d(list): 1d array
+        i(int): index n
+        j(int): index m
+        k(int): index p
+
+    Returs:
+        Void
+
+
+    '''
+    pass
+
+
+def clear1d(arr1d, i, j, k):
+    '''
+    Function clear equivelent item in index using 3d index i,j,k 
+
+    Parametrs:
+
+        arr1d(list): 1d array
+        i(int): index n
+        j(int): index m
+        k(int): index p
+
+    Returs:
+        Void
+
+
+    '''
+    pass

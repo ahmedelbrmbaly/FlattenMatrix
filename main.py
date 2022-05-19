@@ -9,6 +9,7 @@ if __name__ == "__main__":
         p = int(input("Enter p: "))
     except:
         print("please enter valid numbers")
+        input()
 
     # create 3 arr
     arr3d = An3dArr(n, m, p)

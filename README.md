@@ -25,14 +25,15 @@ The 1D vector is of size q and is indexed by y.
 ## Prerequisites
 
 * Python
-
+* pyinstaller
 <br><br>
 
 ## Structure
 
 * **main.py** contains main function
-* **GUI.py** contains GUI Code
-* **Plotting.py** contains Plotting code
+* **FlattenMatrix.py** contains Logic Code
+* **testing.py** contains simple test function
+* **dest/main.exe** a build for the program
 
 <br><br>
 
@@ -45,30 +46,58 @@ The 1D vector is of size q and is indexed by y.
 
 ## Breaking down the requirements
 
-### 1. GUI
+### 1. Input
 
-* [x] Function Label
-* [x] Function Entry
-* [x] Max Label
+* [x] Take n,m,p from user
+* [x] validate n,m,p
+
+### 2. 3d Array
+
+* [x] Create 3D array
+* [x] print 3D array
+
+### 3. 1d Array
+
+* [x] Create equivelent 1D array
+* [x] print 1D array
+
+### 4. Convert from 3d to 1d
+
+* [x] converr 3d indesis(i,j,k) to 1d index
+* [x] Test that the index converted coorectly
+
+### 5. Build
+
+* [x] Build the programm
 
 ## Progam OverView
 
-### Program GUI
+### ask user for n,m,p
+
+![00](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/01.png)
+
+### User entered not valid input
+
+### User entered valid input
+
+### printing the 3d array
+
+### priniting 1d array
+
+### Testing
 
 ## ToDo
 
-* [ ] Fix Functional bugs
+<br><br>
+
+* [ ] Inhance user experince
 * [ ] Testing
-* [ ] GUI Inhance
-* [ ] Build the program
 
 <br><br>
 
 ## Bugs
 
-* [ ] we need to press exit twice
-* [ ] program doesn't stop after an error acuors
-* [ ] function validation
+* [ ] not coorect prinitng
 
 <br><br>
 
