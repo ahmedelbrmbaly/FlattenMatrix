@@ -130,6 +130,29 @@ The 1D vector is of size q and is indexed by y.
 
 ![1d to 2 d](https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/img/transformation.png)
 
+<br><br>
+
+## Comlexity of Converting 3d index to 1d index
+
+### As  
+
+* Converting from 3d to 1d doesn't depent on anything rather than the index number
+* we are  useing a mathmatical function to convert from 3d to 1 d
+
+### Therefore
+
+* algorithm’s time complexity is constant. O(1)
+* That means that it will always run in the same amount of time, no matter the input size.
+
+<br>
+
+![o(1)](https://www.educative.io/api/collection/10370001/5747712368574464/page/5069141895544832/image/5759514938703872)
+
+<br>
+
+![o()](https://miro.medium.com/max/1200/1*j8fUQjaUlmrQEN_udU0_TQ.jpeg)
+<br><br>
+
 ## Resources
 
 * [Bidirectional translation between 1D and 3D arrays](https://coderwall.com/p/fzni3g/bidirectional-translation-between-1d-and-3d-arrays)
