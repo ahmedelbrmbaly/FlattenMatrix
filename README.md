@@ -128,7 +128,7 @@ The 1D vector is of size q and is indexed by y.
 * if we extended that to 3d array
   * item3d[i][j][k] = item1d[k + j * p + i * p * m]
 
-![1d to 2 d](https://www.researchgate.net/profile/Jose-Cano-6/publication/327070011/figure/fig2/AS:660549306175489@1534498635429/3D-input-to-1D-array-row-by-row-transformation.png)
+![1d to 2 d](https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/img/transformation.png)
 
 ## Resources
 
