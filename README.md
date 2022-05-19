@@ -74,17 +74,23 @@ The 1D vector is of size q and is indexed by y.
 
 ### ask user for n,m,p
 
-![00](https://github.com/ahmedelbrmbaly/plotter/blob/main/snapshots/01.png)
+![00](https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/snapshots/0.png)
 
 ### User entered not valid input
 
-### User entered valid input
+![00]<https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/snapshots/01.png>)
 
 ### printing the 3d array
 
+![00](https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/snapshots/03.png)
+
 ### priniting 1d array
 
+![00](https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/snapshots/03.png)
+
 ### Testing
+
+![00](https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/snapshots/04.png)
 
 ## ToDo
 
