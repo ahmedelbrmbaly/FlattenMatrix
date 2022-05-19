@@ -80,6 +80,8 @@ The 1D vector is of size q and is indexed by y.
 
 ![00]<https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/snapshots/01.png>)
 
+### User enterd a valis input
+
 ### printing the 3d array
 
 ![00](https://github.com/ahmedelbrmbaly/FlattenMatrix/blob/main/snapshots/03.png)
